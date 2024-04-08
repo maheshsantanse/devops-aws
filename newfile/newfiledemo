@@ -1,5 +1,9 @@
 heyy
 the data is added in demo branch
 main conflit 
+<<<<<<< HEAD
  ffhf
  conflit 
+=======
+feture branch conflit
+>>>>>>> feture1
